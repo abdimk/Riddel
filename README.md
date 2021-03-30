@@ -5,7 +5,7 @@ Telegram bot witten in python-telegram-bot
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 
 [Riddelmusicbot](https://t.me/Riddlemusicbot). 
-<img src="https://telegra.ph/file/c40c55acf9df578ab5c2f.jpg" width="300" align="left">
+
 
 # Get started
  ![](https://telegra.ph/file/24742074427c848d77c3c.png) 
@@ -34,10 +34,10 @@ Edit **bot.py** with your own TOKEN
 # Run
 ```sh
 $ bot.py 
+```
 
 ## Features 
 * serahch muisc from youtube
 * search video
 * you can download up to 50 MB video or audio
 * most qualities are webm, m4a, mp4 ,web audio
-```
