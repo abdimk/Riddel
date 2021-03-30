@@ -1,4 +1,4 @@
-#code by alban
+#code by alban 2018
 import re
 import os
 from glob import glob, escape
