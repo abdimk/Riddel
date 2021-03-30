@@ -4,10 +4,12 @@ Telegram bot witten in python-telegram-bot
 
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 
-[Riddelmusicbot](https://t.me/Riddlemusicbot). 
+you can find it on telegram [Riddelmusicbot](https://t.me/Riddlemusicbot). 
 
 
 # Get started
+a light weight simple telegram bot to download music and video from Youtube
+
  ![](https://telegra.ph/file/24742074427c848d77c3c.png) 
  
 ## Requirements
