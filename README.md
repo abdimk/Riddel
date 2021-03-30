@@ -39,7 +39,7 @@ $ bot.py
 ```
 
 ## Features 
-* serahch muisc from youtube
+* search muisc from youtube
 * search video
 * you can download up to 50 MB video or audio
 * most qualities are webm, m4a, mp4 ,web audio
