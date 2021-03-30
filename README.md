@@ -15,3 +15,22 @@ Telegram bot witten in python-telegram-bot
 - youtube-search-python
 - youtube-dl
 - A [Telegram bot token](https://t.me/botfather).
+
+
+## Install Locally Or On A VPS
+
+```sh
+$ git clone https://github.com/thehamkercat/WilliamButcherBot
+
+$ cd WilliamButcherBot
+
+$ pip3 install -U -r requirements.txt
+
+$ cp sample_config.py config.py
+```
+Edit **config.py** with your own values
+
+# Run
+```sh
+$ python3 -m wbb
+```
