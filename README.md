@@ -8,3 +8,10 @@ Telegram bot witten in python-telegram-bot
 
 # Get started
  ![](https://telegra.ph/file/24742074427c848d77c3c.png) 
+ 
+## Requirements
+
+- Python 3.7 or higher.
+- youtube-search-python
+- youtube-dl
+- A [Telegram bot token](https://t.me/botfather).
