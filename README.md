@@ -29,9 +29,9 @@ $ pip3 install --user youtube-dl
 
 $ python3 bot.py
 ```
-Edit **config.py** with your own values
+Edit **bot.py** with your own TOKEN
 
 # Run
 ```sh
-$ python3 -m wbb
+$ bot.py 
 ```
