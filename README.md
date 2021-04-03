@@ -43,3 +43,5 @@ $ bot.py
 * search video
 * you can download up to 50 MB video or audio
 * most qualities are webm, m4a, mp4 ,web audio
+
+#you don't even see the typo error on the first folder🙂
